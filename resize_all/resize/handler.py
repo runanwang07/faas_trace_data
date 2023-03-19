@@ -58,8 +58,9 @@ def handle(req):
 
         if h < 400 and w < 400:
             with tracer.start_as_current_span("less400"):
-                with tracer.start_as_current_span("less400ImageCovert"):
+                with tracer.start_as_current_span("less400ByteIo"):
                     img_byte_arr = io.BytesIO()
+                with tracer.start_as_current_span("less400ImageCovert"):
                     image.convert('RGB').save(img_byte_arr, format='JPEG')
                 with tracer.start_as_current_span("less400ImageEncode"):
                     img_data = base64.encodebytes(
@@ -79,8 +80,9 @@ def handle(req):
 
                     image = image.resize(new_size, method)
 
-                with tracer.start_as_current_span("large400ImageCovert"):
+                with tracer.start_as_current_span("large400ByteIo"):
                     img_byte_arr = io.BytesIO()
+                with tracer.start_as_current_span("large400ImageCovert"):
                     image.convert('RGB').save(img_byte_arr, format='JPEG')
 
                 with tracer.start_as_current_span("large400ImageEncode"):

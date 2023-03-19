@@ -44,29 +44,29 @@ def handle(req):
         trace_id = format(span.get_span_context().trace_id, "032x")
         logging.debug("Request TraceID: {}".format(trace_id))
 
-        with tracer.start_as_current_span("loadImage"):
-            try:
-                image_url = req
-                logging.debug("IPredicting from url: {} ".format(image_url))
-                with urlopen(image_url) as testImage:
-                    image = Image.open(testImage)
-            except:
-                response_content = 'Bad input'
-                return response_content
+        # with tracer.start_as_current_span("loadImage"):
+        try:
+            image_url = req
+            logging.debug("IPredicting from url: {} ".format(image_url))
+            with urlopen(image_url) as testImage:
+                image = Image.open(testImage)
+        except:
+            response_content = 'Bad input'
+            return response_content
 
         w, h = image.size
 
         if h < 400 and w < 400:
-            # with tracer.start_as_current_span("less400"):
-            # with tracer.start_as_current_span("less400ByteIo"):
-            img_byte_arr = io.BytesIO()
-            # with tracer.start_as_current_span("less400ImageCovert"):
-            image.convert('RGB').save(img_byte_arr, format='JPEG')
-            # with tracer.start_as_current_span("less400ImageEncode"):
-            img_data = base64.encodebytes(
-                img_byte_arr.getvalue()).decode('utf-8')
+            with tracer.start_as_current_span("less400"):
+                # with tracer.start_as_current_span("less400ByteIo"):
+                img_byte_arr = io.BytesIO()
+                # with tracer.start_as_current_span("less400ImageCovert"):
+                image.convert('RGB').save(img_byte_arr, format='JPEG')
+                # with tracer.start_as_current_span("less400ImageEncode"):
+                img_data = base64.encodebytes(
+                    img_byte_arr.getvalue()).decode('utf-8')
 
-            return img_data
+                return img_data
         else:
             # with tracer.start_as_current_span("large400"):
             new_size = (400 * w // h, 400) if (h >
