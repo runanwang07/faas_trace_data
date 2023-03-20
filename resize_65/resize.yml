@@ -1,0 +1,18 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://33.33.33.223:31112
+  network: func_functions
+functions:
+  resize:
+    lang: python3
+    handler: ./resize
+    build_options:
+      - pillow
+    image: registry.cn-shenzhen.aliyuncs.com/yuxiaoba/resize:65
+    environment:
+      combine_output: false
+      # write_debug: true
+      COLLECTOR_ADDR: "otel-collector.observability:4317"
+      SERVICE_NAME: "Resizeimage"
+      
