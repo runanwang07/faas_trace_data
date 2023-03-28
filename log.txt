@@ -1,0 +1,336 @@
+[INFO]2023-03-25 08:30:07,026 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 08:30:07,026 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_all
+[INFO]2023-03-25 08:30:07,027 run_exp.py:93: Start Local time: 2023-03-25 16:30:07.027475+08:00
+[INFO]2023-03-25 08:30:07,027 run_exp.py:94: Start UTC time: 2023-03-25 08:30:07.027757+00:00
+[INFO]2023-03-25 08:51:07,115 run_exp.py:103: End Local time: 2023-03-25 16:51:07.114619+08:00
+[INFO]2023-03-25 08:51:07,118 run_exp.py:104: End UTC time: 2023-03-25 08:51:07.118131+00:00
+[INFO]2023-03-25 08:51:07,118 run_exp.py:105:  
+[INFO]2023-03-25 08:51:40,302 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 08:51:40,303 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_42
+[INFO]2023-03-25 08:51:40,303 run_exp.py:93: Start Local time: 2023-03-25 16:51:40.303401+08:00
+[INFO]2023-03-25 08:51:40,303 run_exp.py:94: Start UTC time: 2023-03-25 08:51:40.303819+00:00
+[INFO]2023-03-25 09:12:40,403 run_exp.py:103: End Local time: 2023-03-25 17:12:40.402226+08:00
+[INFO]2023-03-25 09:12:40,405 run_exp.py:104: End UTC time: 2023-03-25 09:12:40.405745+00:00
+[INFO]2023-03-25 09:12:40,406 run_exp.py:105:  
+[INFO]2023-03-25 09:13:12,624 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 09:13:12,625 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_47
+[INFO]2023-03-25 09:13:12,626 run_exp.py:93: Start Local time: 2023-03-25 17:13:12.626097+08:00
+[INFO]2023-03-25 09:13:12,626 run_exp.py:94: Start UTC time: 2023-03-25 09:13:12.626502+00:00
+[INFO]2023-03-25 09:34:12,733 run_exp.py:103: End Local time: 2023-03-25 17:34:12.731854+08:00
+[INFO]2023-03-25 09:34:12,735 run_exp.py:104: End UTC time: 2023-03-25 09:34:12.735529+00:00
+[INFO]2023-03-25 09:34:12,735 run_exp.py:105:  
+[INFO]2023-03-25 09:34:56,684 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 09:34:56,685 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_60
+[INFO]2023-03-25 09:34:56,685 run_exp.py:93: Start Local time: 2023-03-25 17:34:56.685341+08:00
+[INFO]2023-03-25 09:34:56,685 run_exp.py:94: Start UTC time: 2023-03-25 09:34:56.685651+00:00
+[INFO]2023-03-25 09:55:56,756 run_exp.py:103: End Local time: 2023-03-25 17:55:56.755662+08:00
+[INFO]2023-03-25 09:55:56,759 run_exp.py:104: End UTC time: 2023-03-25 09:55:56.759088+00:00
+[INFO]2023-03-25 09:55:56,759 run_exp.py:105:  
+[INFO]2023-03-25 09:56:40,673 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 09:56:40,674 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_61
+[INFO]2023-03-25 09:56:40,674 run_exp.py:93: Start Local time: 2023-03-25 17:56:40.674752+08:00
+[INFO]2023-03-25 09:56:40,675 run_exp.py:94: Start UTC time: 2023-03-25 09:56:40.675219+00:00
+[INFO]2023-03-25 10:17:40,785 run_exp.py:103: End Local time: 2023-03-25 18:17:40.783860+08:00
+[INFO]2023-03-25 10:17:40,788 run_exp.py:104: End UTC time: 2023-03-25 10:17:40.787926+00:00
+[INFO]2023-03-25 10:17:40,788 run_exp.py:105:  
+[INFO]2023-03-25 10:18:24,254 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 10:18:24,254 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_63
+[INFO]2023-03-25 10:18:24,255 run_exp.py:93: Start Local time: 2023-03-25 18:18:24.255347+08:00
+[INFO]2023-03-25 10:18:24,255 run_exp.py:94: Start UTC time: 2023-03-25 10:18:24.255762+00:00
+[INFO]2023-03-25 10:39:24,351 run_exp.py:103: End Local time: 2023-03-25 18:39:24.350542+08:00
+[INFO]2023-03-25 10:39:24,354 run_exp.py:104: End UTC time: 2023-03-25 10:39:24.354129+00:00
+[INFO]2023-03-25 10:39:24,354 run_exp.py:105:  
+[INFO]2023-03-25 10:40:08,497 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 10:40:08,498 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_65
+[INFO]2023-03-25 10:40:08,498 run_exp.py:93: Start Local time: 2023-03-25 18:40:08.498546+08:00
+[INFO]2023-03-25 10:40:08,499 run_exp.py:94: Start UTC time: 2023-03-25 10:40:08.499002+00:00
+[INFO]2023-03-25 11:01:08,608 run_exp.py:103: End Local time: 2023-03-25 19:01:08.607324+08:00
+[INFO]2023-03-25 11:01:08,611 run_exp.py:104: End UTC time: 2023-03-25 11:01:08.611209+00:00
+[INFO]2023-03-25 11:01:08,611 run_exp.py:105:  
+[INFO]2023-03-25 11:01:40,739 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 11:01:40,740 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_71
+[INFO]2023-03-25 11:01:40,740 run_exp.py:93: Start Local time: 2023-03-25 19:01:40.740730+08:00
+[INFO]2023-03-25 11:01:40,741 run_exp.py:94: Start UTC time: 2023-03-25 11:01:40.741178+00:00
+[INFO]2023-03-25 11:22:40,844 run_exp.py:103: End Local time: 2023-03-25 19:22:40.843261+08:00
+[INFO]2023-03-25 11:22:40,847 run_exp.py:104: End UTC time: 2023-03-25 11:22:40.846957+00:00
+[INFO]2023-03-25 11:22:40,847 run_exp.py:105:  
+[INFO]2023-03-25 11:23:24,732 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 11:23:24,733 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_75
+[INFO]2023-03-25 11:23:24,734 run_exp.py:93: Start Local time: 2023-03-25 19:23:24.734273+08:00
+[INFO]2023-03-25 11:23:24,734 run_exp.py:94: Start UTC time: 2023-03-25 11:23:24.734697+00:00
+[INFO]2023-03-25 11:44:24,841 run_exp.py:103: End Local time: 2023-03-25 19:44:24.840326+08:00
+[INFO]2023-03-25 11:44:24,843 run_exp.py:104: End UTC time: 2023-03-25 11:44:24.843534+00:00
+[INFO]2023-03-25 11:44:24,843 run_exp.py:105:  
+[INFO]2023-03-25 11:45:08,428 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 11:45:08,428 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_83
+[INFO]2023-03-25 11:45:08,429 run_exp.py:93: Start Local time: 2023-03-25 19:45:08.429206+08:00
+[INFO]2023-03-25 11:45:08,429 run_exp.py:94: Start UTC time: 2023-03-25 11:45:08.429640+00:00
+[INFO]2023-03-25 12:06:08,536 run_exp.py:103: End Local time: 2023-03-25 20:06:08.535165+08:00
+[INFO]2023-03-25 12:06:08,538 run_exp.py:104: End UTC time: 2023-03-25 12:06:08.538618+00:00
+[INFO]2023-03-25 12:06:08,539 run_exp.py:105:  
+[INFO]2023-03-25 12:06:52,706 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 12:06:52,707 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_85
+[INFO]2023-03-25 12:06:52,708 run_exp.py:93: Start Local time: 2023-03-25 20:06:52.707878+08:00
+[INFO]2023-03-25 12:06:52,708 run_exp.py:94: Start UTC time: 2023-03-25 12:06:52.708306+00:00
+[INFO]2023-03-25 12:27:52,814 run_exp.py:103: End Local time: 2023-03-25 20:27:52.813239+08:00
+[INFO]2023-03-25 12:27:52,817 run_exp.py:104: End UTC time: 2023-03-25 12:27:52.817073+00:00
+[INFO]2023-03-25 12:27:52,817 run_exp.py:105:  
+[INFO]2023-03-25 12:28:37,163 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-25 12:28:37,163 run_exp.py:92: working_directory: /mnt/resize_trace/resize_statement_trace_88
+[INFO]2023-03-25 12:28:37,164 run_exp.py:93: Start Local time: 2023-03-25 20:28:37.164166+08:00
+[INFO]2023-03-25 12:28:37,164 run_exp.py:94: Start UTC time: 2023-03-25 12:28:37.164383+00:00
+[INFO]2023-03-25 12:49:37,256 run_exp.py:103: End Local time: 2023-03-25 20:49:37.255235+08:00
+[INFO]2023-03-25 12:49:37,259 run_exp.py:104: End UTC time: 2023-03-25 12:49:37.258919+00:00
+[INFO]2023-03-25 12:49:37,259 run_exp.py:105:  
+[INFO]2023-03-26 01:20:49,987 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 01:20:49,987 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_all
+[INFO]2023-03-26 01:20:49,988 run_exp.py:93: Start Local time: 2023-03-26 09:20:49.988568+08:00
+[INFO]2023-03-26 01:20:49,988 run_exp.py:94: Start UTC time: 2023-03-26 01:20:49.988884+00:00
+[INFO]2023-03-26 01:41:50,097 run_exp.py:103: End Local time: 2023-03-26 09:41:50.096293+08:00
+[INFO]2023-03-26 01:41:50,099 run_exp.py:104: End UTC time: 2023-03-26 01:41:50.099717+00:00
+[INFO]2023-03-26 01:41:50,100 run_exp.py:105:  
+[INFO]2023-03-26 01:42:33,565 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 01:42:33,566 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_42
+[INFO]2023-03-26 01:42:33,567 run_exp.py:93: Start Local time: 2023-03-26 09:42:33.566958+08:00
+[INFO]2023-03-26 01:42:33,567 run_exp.py:94: Start UTC time: 2023-03-26 01:42:33.567410+00:00
+[INFO]2023-03-26 02:03:33,669 run_exp.py:103: End Local time: 2023-03-26 10:03:33.668607+08:00
+[INFO]2023-03-26 02:03:33,672 run_exp.py:104: End UTC time: 2023-03-26 02:03:33.672562+00:00
+[INFO]2023-03-26 02:03:33,673 run_exp.py:105:  
+[INFO]2023-03-26 02:04:17,810 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 02:04:17,811 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_47
+[INFO]2023-03-26 02:04:17,812 run_exp.py:93: Start Local time: 2023-03-26 10:04:17.812026+08:00
+[INFO]2023-03-26 02:04:17,812 run_exp.py:94: Start UTC time: 2023-03-26 02:04:17.812508+00:00
+[INFO]2023-03-26 02:25:17,881 run_exp.py:103: End Local time: 2023-03-26 10:25:17.880792+08:00
+[INFO]2023-03-26 02:25:17,884 run_exp.py:104: End UTC time: 2023-03-26 02:25:17.883959+00:00
+[INFO]2023-03-26 02:25:17,884 run_exp.py:105:  
+[INFO]2023-03-26 02:26:01,434 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 02:26:01,435 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_60
+[INFO]2023-03-26 02:26:01,435 run_exp.py:93: Start Local time: 2023-03-26 10:26:01.435790+08:00
+[INFO]2023-03-26 02:26:01,436 run_exp.py:94: Start UTC time: 2023-03-26 02:26:01.436272+00:00
+[INFO]2023-03-26 02:47:01,544 run_exp.py:103: End Local time: 2023-03-26 10:47:01.543449+08:00
+[INFO]2023-03-26 02:47:01,547 run_exp.py:104: End UTC time: 2023-03-26 02:47:01.547400+00:00
+[INFO]2023-03-26 02:47:01,547 run_exp.py:105:  
+[INFO]2023-03-26 02:47:45,369 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 02:47:45,369 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_61
+[INFO]2023-03-26 02:47:45,370 run_exp.py:93: Start Local time: 2023-03-26 10:47:45.370162+08:00
+[INFO]2023-03-26 02:47:45,370 run_exp.py:94: Start UTC time: 2023-03-26 02:47:45.370623+00:00
+[INFO]2023-03-26 03:08:45,480 run_exp.py:103: End Local time: 2023-03-26 11:08:45.479367+08:00
+[INFO]2023-03-26 03:08:45,482 run_exp.py:104: End UTC time: 2023-03-26 03:08:45.482808+00:00
+[INFO]2023-03-26 03:08:45,483 run_exp.py:105:  
+[INFO]2023-03-26 03:09:30,374 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 03:09:30,375 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_63
+[INFO]2023-03-26 03:09:30,376 run_exp.py:93: Start Local time: 2023-03-26 11:09:30.376265+08:00
+[INFO]2023-03-26 03:09:30,376 run_exp.py:94: Start UTC time: 2023-03-26 03:09:30.376643+00:00
+[INFO]2023-03-26 03:30:30,468 run_exp.py:103: End Local time: 2023-03-26 11:30:30.467052+08:00
+[INFO]2023-03-26 03:30:30,470 run_exp.py:104: End UTC time: 2023-03-26 03:30:30.470357+00:00
+[INFO]2023-03-26 03:30:30,470 run_exp.py:105:  
+[INFO]2023-03-26 03:31:15,437 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 03:31:15,438 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_65
+[INFO]2023-03-26 03:31:15,438 run_exp.py:93: Start Local time: 2023-03-26 11:31:15.438398+08:00
+[INFO]2023-03-26 03:31:15,438 run_exp.py:94: Start UTC time: 2023-03-26 03:31:15.438805+00:00
+[INFO]2023-03-26 03:52:15,548 run_exp.py:103: End Local time: 2023-03-26 11:52:15.547336+08:00
+[INFO]2023-03-26 03:52:15,550 run_exp.py:104: End UTC time: 2023-03-26 03:52:15.550724+00:00
+[INFO]2023-03-26 03:52:15,551 run_exp.py:105:  
+[INFO]2023-03-26 03:52:59,887 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 03:52:59,888 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_71
+[INFO]2023-03-26 03:52:59,889 run_exp.py:93: Start Local time: 2023-03-26 11:52:59.889068+08:00
+[INFO]2023-03-26 03:52:59,889 run_exp.py:94: Start UTC time: 2023-03-26 03:52:59.889522+00:00
+[INFO]2023-03-26 04:13:59,982 run_exp.py:103: End Local time: 2023-03-26 12:13:59.981001+08:00
+[INFO]2023-03-26 04:13:59,984 run_exp.py:104: End UTC time: 2023-03-26 04:13:59.984093+00:00
+[INFO]2023-03-26 04:13:59,984 run_exp.py:105:  
+[INFO]2023-03-26 04:14:44,186 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 04:14:44,187 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_75
+[INFO]2023-03-26 04:14:44,188 run_exp.py:93: Start Local time: 2023-03-26 12:14:44.188102+08:00
+[INFO]2023-03-26 04:14:44,188 run_exp.py:94: Start UTC time: 2023-03-26 04:14:44.188568+00:00
+[INFO]2023-03-26 04:35:44,296 run_exp.py:103: End Local time: 2023-03-26 12:35:44.295564+08:00
+[INFO]2023-03-26 04:35:44,299 run_exp.py:104: End UTC time: 2023-03-26 04:35:44.299838+00:00
+[INFO]2023-03-26 04:35:44,300 run_exp.py:105:  
+[INFO]2023-03-26 04:36:28,831 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 04:36:28,832 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_83
+[INFO]2023-03-26 04:36:28,833 run_exp.py:93: Start Local time: 2023-03-26 12:36:28.833332+08:00
+[INFO]2023-03-26 04:36:28,833 run_exp.py:94: Start UTC time: 2023-03-26 04:36:28.833888+00:00
+[INFO]2023-03-26 04:57:28,939 run_exp.py:103: End Local time: 2023-03-26 12:57:28.938620+08:00
+[INFO]2023-03-26 04:57:28,942 run_exp.py:104: End UTC time: 2023-03-26 04:57:28.942638+00:00
+[INFO]2023-03-26 04:57:28,943 run_exp.py:105:  
+[INFO]2023-03-26 04:58:13,474 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 04:58:13,475 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_85
+[INFO]2023-03-26 04:58:13,475 run_exp.py:93: Start Local time: 2023-03-26 12:58:13.475854+08:00
+[INFO]2023-03-26 04:58:13,476 run_exp.py:94: Start UTC time: 2023-03-26 04:58:13.476249+00:00
+[INFO]2023-03-26 05:19:13,583 run_exp.py:103: End Local time: 2023-03-26 13:19:13.581900+08:00
+[INFO]2023-03-26 05:19:13,585 run_exp.py:104: End UTC time: 2023-03-26 05:19:13.585347+00:00
+[INFO]2023-03-26 05:19:13,585 run_exp.py:105:  
+[INFO]2023-03-26 05:19:57,700 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 05:19:57,701 run_exp.py:92: working_directory: /mnt/resize_trace/fault1_resize_statement_trace_88
+[INFO]2023-03-26 05:19:57,701 run_exp.py:93: Start Local time: 2023-03-26 13:19:57.701771+08:00
+[INFO]2023-03-26 05:19:57,702 run_exp.py:94: Start UTC time: 2023-03-26 05:19:57.702258+00:00
+[INFO]2023-03-26 05:40:57,808 run_exp.py:103: End Local time: 2023-03-26 13:40:57.807388+08:00
+[INFO]2023-03-26 05:40:57,809 run_exp.py:104: End UTC time: 2023-03-26 05:40:57.809284+00:00
+[INFO]2023-03-26 05:40:57,809 run_exp.py:105:  
+[INFO]2023-03-26 14:19:35,260 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 14:19:35,260 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_all
+[INFO]2023-03-26 14:19:35,261 run_exp.py:93: Start Local time: 2023-03-26 22:19:35.261152+08:00
+[INFO]2023-03-26 14:19:35,261 run_exp.py:94: Start UTC time: 2023-03-26 14:19:35.261509+00:00
+[INFO]2023-03-26 14:40:35,368 run_exp.py:103: End Local time: 2023-03-26 22:40:35.366596+08:00
+[INFO]2023-03-26 14:40:35,371 run_exp.py:104: End UTC time: 2023-03-26 14:40:35.371147+00:00
+[INFO]2023-03-26 14:40:35,372 run_exp.py:105:  
+[INFO]2023-03-26 14:41:19,666 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 14:41:19,667 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_42
+[INFO]2023-03-26 14:41:19,667 run_exp.py:93: Start Local time: 2023-03-26 22:41:19.667285+08:00
+[INFO]2023-03-26 14:41:19,667 run_exp.py:94: Start UTC time: 2023-03-26 14:41:19.667545+00:00
+[INFO]2023-03-26 15:02:19,771 run_exp.py:103: End Local time: 2023-03-26 23:02:19.770745+08:00
+[INFO]2023-03-26 15:02:19,775 run_exp.py:104: End UTC time: 2023-03-26 15:02:19.775132+00:00
+[INFO]2023-03-26 15:02:19,775 run_exp.py:105:  
+[INFO]2023-03-26 15:03:04,052 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 15:03:04,053 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_47
+[INFO]2023-03-26 15:03:04,053 run_exp.py:93: Start Local time: 2023-03-26 23:03:04.053500+08:00
+[INFO]2023-03-26 15:03:04,054 run_exp.py:94: Start UTC time: 2023-03-26 15:03:04.053974+00:00
+[INFO]2023-03-26 15:24:04,160 run_exp.py:103: End Local time: 2023-03-26 23:24:04.159521+08:00
+[INFO]2023-03-26 15:24:04,163 run_exp.py:104: End UTC time: 2023-03-26 15:24:04.163081+00:00
+[INFO]2023-03-26 15:24:04,163 run_exp.py:105:  
+[INFO]2023-03-26 15:24:47,947 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 15:24:47,947 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_60
+[INFO]2023-03-26 15:24:47,948 run_exp.py:93: Start Local time: 2023-03-26 23:24:47.948249+08:00
+[INFO]2023-03-26 15:24:47,948 run_exp.py:94: Start UTC time: 2023-03-26 15:24:47.948648+00:00
+[INFO]2023-03-26 15:45:48,056 run_exp.py:103: End Local time: 2023-03-26 23:45:48.055279+08:00
+[INFO]2023-03-26 15:45:48,058 run_exp.py:104: End UTC time: 2023-03-26 15:45:48.058703+00:00
+[INFO]2023-03-26 15:45:48,059 run_exp.py:105:  
+[INFO]2023-03-26 15:46:32,222 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 15:46:32,223 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_61
+[INFO]2023-03-26 15:46:32,224 run_exp.py:93: Start Local time: 2023-03-26 23:46:32.223910+08:00
+[INFO]2023-03-26 15:46:32,224 run_exp.py:94: Start UTC time: 2023-03-26 15:46:32.224301+00:00
+[INFO]2023-03-26 16:07:32,331 run_exp.py:103: End Local time: 2023-03-27 00:07:32.330219+08:00
+[INFO]2023-03-26 16:07:32,333 run_exp.py:104: End UTC time: 2023-03-26 16:07:32.333728+00:00
+[INFO]2023-03-26 16:07:32,334 run_exp.py:105:  
+[INFO]2023-03-26 16:08:16,485 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 16:08:16,486 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_63
+[INFO]2023-03-26 16:08:16,486 run_exp.py:93: Start Local time: 2023-03-27 00:08:16.486426+08:00
+[INFO]2023-03-26 16:08:16,486 run_exp.py:94: Start UTC time: 2023-03-26 16:08:16.486882+00:00
+[INFO]2023-03-26 16:29:16,508 run_exp.py:103: End Local time: 2023-03-27 00:29:16.506953+08:00
+[INFO]2023-03-26 16:29:16,511 run_exp.py:104: End UTC time: 2023-03-26 16:29:16.511025+00:00
+[INFO]2023-03-26 16:29:16,511 run_exp.py:105:  
+[INFO]2023-03-26 16:30:00,172 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 16:30:00,173 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_65
+[INFO]2023-03-26 16:30:00,174 run_exp.py:93: Start Local time: 2023-03-27 00:30:00.173916+08:00
+[INFO]2023-03-26 16:30:00,174 run_exp.py:94: Start UTC time: 2023-03-26 16:30:00.174370+00:00
+[INFO]2023-03-26 16:51:00,276 run_exp.py:103: End Local time: 2023-03-27 00:51:00.275831+08:00
+[INFO]2023-03-26 16:51:00,279 run_exp.py:104: End UTC time: 2023-03-26 16:51:00.279017+00:00
+[INFO]2023-03-26 16:51:00,279 run_exp.py:105:  
+[INFO]2023-03-26 16:51:44,435 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 16:51:44,437 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_71
+[INFO]2023-03-26 16:51:44,437 run_exp.py:93: Start Local time: 2023-03-27 00:51:44.437857+08:00
+[INFO]2023-03-26 16:51:44,438 run_exp.py:94: Start UTC time: 2023-03-26 16:51:44.438428+00:00
+[INFO]2023-03-26 17:12:44,548 run_exp.py:103: End Local time: 2023-03-27 01:12:44.547883+08:00
+[INFO]2023-03-26 17:12:44,555 run_exp.py:104: End UTC time: 2023-03-26 17:12:44.555403+00:00
+[INFO]2023-03-26 17:12:44,556 run_exp.py:105:  
+[INFO]2023-03-26 17:13:28,468 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 17:13:28,469 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_75
+[INFO]2023-03-26 17:13:28,469 run_exp.py:93: Start Local time: 2023-03-27 01:13:28.469737+08:00
+[INFO]2023-03-26 17:13:28,470 run_exp.py:94: Start UTC time: 2023-03-26 17:13:28.470253+00:00
+[INFO]2023-03-26 17:34:28,576 run_exp.py:103: End Local time: 2023-03-27 01:34:28.575273+08:00
+[INFO]2023-03-26 17:34:28,579 run_exp.py:104: End UTC time: 2023-03-26 17:34:28.579187+00:00
+[INFO]2023-03-26 17:34:28,579 run_exp.py:105:  
+[INFO]2023-03-26 17:35:12,583 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 17:35:12,584 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_83
+[INFO]2023-03-26 17:35:12,584 run_exp.py:93: Start Local time: 2023-03-27 01:35:12.584707+08:00
+[INFO]2023-03-26 17:35:12,585 run_exp.py:94: Start UTC time: 2023-03-26 17:35:12.585054+00:00
+[INFO]2023-03-26 17:56:12,654 run_exp.py:103: End Local time: 2023-03-27 01:56:12.653898+08:00
+[INFO]2023-03-26 17:56:12,655 run_exp.py:104: End UTC time: 2023-03-26 17:56:12.655909+00:00
+[INFO]2023-03-26 17:56:12,656 run_exp.py:105:  
+[INFO]2023-03-26 17:56:56,683 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 17:56:56,684 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_85
+[INFO]2023-03-26 17:56:56,684 run_exp.py:93: Start Local time: 2023-03-27 01:56:56.684535+08:00
+[INFO]2023-03-26 17:56:56,685 run_exp.py:94: Start UTC time: 2023-03-26 17:56:56.685025+00:00
+[INFO]2023-03-26 18:17:56,747 run_exp.py:103: End Local time: 2023-03-27 02:17:56.746494+08:00
+[INFO]2023-03-26 18:17:56,748 run_exp.py:104: End UTC time: 2023-03-26 18:17:56.748599+00:00
+[INFO]2023-03-26 18:17:56,748 run_exp.py:105:  
+[INFO]2023-03-26 18:18:39,139 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 18:18:39,139 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_88
+[INFO]2023-03-26 18:18:39,140 run_exp.py:93: Start Local time: 2023-03-27 02:18:39.140082+08:00
+[INFO]2023-03-26 18:18:39,140 run_exp.py:94: Start UTC time: 2023-03-26 18:18:39.140491+00:00
+[INFO]2023-03-26 18:39:39,243 run_exp.py:103: End Local time: 2023-03-27 02:39:39.241734+08:00
+[INFO]2023-03-26 18:39:39,246 run_exp.py:104: End UTC time: 2023-03-26 18:39:39.246130+00:00
+[INFO]2023-03-26 18:39:39,246 run_exp.py:105:  
+[INFO]2023-03-26 18:40:11,540 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 18:40:11,541 run_exp.py:92: working_directory: /mnt/resize_trace/fault2_resize_statement_trace_all
+[INFO]2023-03-26 18:40:11,541 run_exp.py:93: Start Local time: 2023-03-27 02:40:11.541749+08:00
+[INFO]2023-03-26 18:40:11,542 run_exp.py:94: Start UTC time: 2023-03-26 18:40:11.542162+00:00
+[INFO]2023-03-26 19:01:11,648 run_exp.py:103: End Local time: 2023-03-27 03:01:11.647402+08:00
+[INFO]2023-03-26 19:01:11,650 run_exp.py:104: End UTC time: 2023-03-26 19:01:11.650867+00:00
+[INFO]2023-03-26 19:01:11,651 run_exp.py:105:  
+[INFO]2023-03-26 19:01:54,588 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 19:01:54,589 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_42
+[INFO]2023-03-26 19:01:54,589 run_exp.py:93: Start Local time: 2023-03-27 03:01:54.589847+08:00
+[INFO]2023-03-26 19:01:54,590 run_exp.py:94: Start UTC time: 2023-03-26 19:01:54.590246+00:00
+[INFO]2023-03-26 19:22:54,696 run_exp.py:103: End Local time: 2023-03-27 03:22:54.695564+08:00
+[INFO]2023-03-26 19:22:54,699 run_exp.py:104: End UTC time: 2023-03-26 19:22:54.699191+00:00
+[INFO]2023-03-26 19:22:54,699 run_exp.py:105:  
+[INFO]2023-03-26 19:23:37,803 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 19:23:37,804 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_47
+[INFO]2023-03-26 19:23:37,804 run_exp.py:93: Start Local time: 2023-03-27 03:23:37.804313+08:00
+[INFO]2023-03-26 19:23:37,804 run_exp.py:94: Start UTC time: 2023-03-26 19:23:37.804590+00:00
+[INFO]2023-03-26 19:44:37,888 run_exp.py:103: End Local time: 2023-03-27 03:44:37.887407+08:00
+[INFO]2023-03-26 19:44:37,891 run_exp.py:104: End UTC time: 2023-03-26 19:44:37.891179+00:00
+[INFO]2023-03-26 19:44:37,891 run_exp.py:105:  
+[INFO]2023-03-26 19:45:21,469 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 19:45:21,470 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_60
+[INFO]2023-03-26 19:45:21,470 run_exp.py:93: Start Local time: 2023-03-27 03:45:21.470508+08:00
+[INFO]2023-03-26 19:45:21,470 run_exp.py:94: Start UTC time: 2023-03-26 19:45:21.470926+00:00
+[INFO]2023-03-26 20:06:21,580 run_exp.py:103: End Local time: 2023-03-27 04:06:21.579588+08:00
+[INFO]2023-03-26 20:06:21,582 run_exp.py:104: End UTC time: 2023-03-26 20:06:21.582868+00:00
+[INFO]2023-03-26 20:06:21,583 run_exp.py:105:  
+[INFO]2023-03-26 20:07:04,967 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 20:07:04,968 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_61
+[INFO]2023-03-26 20:07:04,969 run_exp.py:93: Start Local time: 2023-03-27 04:07:04.968978+08:00
+[INFO]2023-03-26 20:07:04,969 run_exp.py:94: Start UTC time: 2023-03-26 20:07:04.969425+00:00
+[INFO]2023-03-26 20:28:05,088 run_exp.py:103: End Local time: 2023-03-27 04:28:05.087180+08:00
+[INFO]2023-03-26 20:28:05,090 run_exp.py:104: End UTC time: 2023-03-26 20:28:05.090381+00:00
+[INFO]2023-03-26 20:28:05,090 run_exp.py:105:  
+[INFO]2023-03-26 20:28:48,233 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 20:28:48,234 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_63
+[INFO]2023-03-26 20:28:48,234 run_exp.py:93: Start Local time: 2023-03-27 04:28:48.234487+08:00
+[INFO]2023-03-26 20:28:48,234 run_exp.py:94: Start UTC time: 2023-03-26 20:28:48.234920+00:00
+[INFO]2023-03-26 20:49:48,342 run_exp.py:103: End Local time: 2023-03-27 04:49:48.341244+08:00
+[INFO]2023-03-26 20:49:48,344 run_exp.py:104: End UTC time: 2023-03-26 20:49:48.344643+00:00
+[INFO]2023-03-26 20:49:48,345 run_exp.py:105:  
+[INFO]2023-03-26 20:50:31,635 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 20:50:31,635 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_65
+[INFO]2023-03-26 20:50:31,636 run_exp.py:93: Start Local time: 2023-03-27 04:50:31.636272+08:00
+[INFO]2023-03-26 20:50:31,636 run_exp.py:94: Start UTC time: 2023-03-26 20:50:31.636759+00:00
+[INFO]2023-03-26 21:11:31,746 run_exp.py:103: End Local time: 2023-03-27 05:11:31.745252+08:00
+[INFO]2023-03-26 21:11:31,749 run_exp.py:104: End UTC time: 2023-03-26 21:11:31.749119+00:00
+[INFO]2023-03-26 21:11:31,749 run_exp.py:105:  
+[INFO]2023-03-26 21:12:15,179 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 21:12:15,180 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_71
+[INFO]2023-03-26 21:12:15,180 run_exp.py:93: Start Local time: 2023-03-27 05:12:15.180529+08:00
+[INFO]2023-03-26 21:12:15,181 run_exp.py:94: Start UTC time: 2023-03-26 21:12:15.181057+00:00
+[INFO]2023-03-26 21:33:15,273 run_exp.py:103: End Local time: 2023-03-27 05:33:15.272086+08:00
+[INFO]2023-03-26 21:33:15,275 run_exp.py:104: End UTC time: 2023-03-26 21:33:15.275696+00:00
+[INFO]2023-03-26 21:33:15,276 run_exp.py:105:  
+[INFO]2023-03-26 21:33:58,262 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 21:33:58,262 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_75
+[INFO]2023-03-26 21:33:58,262 run_exp.py:93: Start Local time: 2023-03-27 05:33:58.262764+08:00
+[INFO]2023-03-26 21:33:58,263 run_exp.py:94: Start UTC time: 2023-03-26 21:33:58.263029+00:00
+[INFO]2023-03-26 21:54:58,367 run_exp.py:103: End Local time: 2023-03-27 05:54:58.366660+08:00
+[INFO]2023-03-26 21:54:58,370 run_exp.py:104: End UTC time: 2023-03-26 21:54:58.370070+00:00
+[INFO]2023-03-26 21:54:58,370 run_exp.py:105:  
+[INFO]2023-03-26 21:55:41,549 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 21:55:41,550 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_83
+[INFO]2023-03-26 21:55:41,550 run_exp.py:93: Start Local time: 2023-03-27 05:55:41.550635+08:00
+[INFO]2023-03-26 21:55:41,551 run_exp.py:94: Start UTC time: 2023-03-26 21:55:41.551084+00:00
+[INFO]2023-03-26 22:16:41,660 run_exp.py:103: End Local time: 2023-03-27 06:16:41.659159+08:00
+[INFO]2023-03-26 22:16:41,662 run_exp.py:104: End UTC time: 2023-03-26 22:16:41.662697+00:00
+[INFO]2023-03-26 22:16:41,663 run_exp.py:105:  
+[INFO]2023-03-26 22:17:24,651 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 22:17:24,652 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_85
+[INFO]2023-03-26 22:17:24,652 run_exp.py:93: Start Local time: 2023-03-27 06:17:24.652492+08:00
+[INFO]2023-03-26 22:17:24,653 run_exp.py:94: Start UTC time: 2023-03-26 22:17:24.652959+00:00
+[INFO]2023-03-26 22:38:24,760 run_exp.py:103: End Local time: 2023-03-27 06:38:24.759306+08:00
+[INFO]2023-03-26 22:38:24,762 run_exp.py:104: End UTC time: 2023-03-26 22:38:24.762796+00:00
+[INFO]2023-03-26 22:38:24,763 run_exp.py:105:  
+[INFO]2023-03-26 22:39:07,790 run_exp.py:91: ----------------------------------------
+[INFO]2023-03-26 22:39:07,791 run_exp.py:92: working_directory: /mnt/resize_trace/fault3_resize_statement_trace_88
+[INFO]2023-03-26 22:39:07,791 run_exp.py:93: Start Local time: 2023-03-27 06:39:07.791721+08:00
+[INFO]2023-03-26 22:39:07,792 run_exp.py:94: Start UTC time: 2023-03-26 22:39:07.792135+00:00
+[INFO]2023-03-26 23:00:07,864 run_exp.py:103: End Local time: 2023-03-27 07:00:07.863485+08:00
+[INFO]2023-03-26 23:00:07,867 run_exp.py:104: End UTC time: 2023-03-26 23:00:07.866909+00:00
+[INFO]2023-03-26 23:00:07,867 run_exp.py:105:  
