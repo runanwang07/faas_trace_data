@@ -21,7 +21,7 @@ locust -f locust_file.py --host=http://33.33.33.223:31112/function/ --headless -
     - data: trace data of resize_all
     - resize: reize function code
     - resize.yml: deploy yml
-  - fault1_resize_statement_trace_resize_all: reize function with trace at line 42 
+  - fault1_resize_statement_trace_resize_all: reize function with all trace point
     - data: trace data of resize_all
     - resize: reize function code
     - resize.yml: deploy yml
