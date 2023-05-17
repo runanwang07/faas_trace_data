@@ -1,0 +1,3 @@
+TraceID,SpanID,ParentID,PodName,OperationName,StartTimeUnixNano,EndTimeUnixNano,Duration
+2e21b834a51014b87dae15df46f7a0d0,23b7f8bc9b52ff55,root,resize-55c7f9fcbd-hkkwj,resizeImage,1684097160008305946,1684097160010368827,2062
+5fe07fdff1405a16c2d14dadea656803,cbcd0735803b07f4,root,resize-55c7f9fcbd-hkkwj,resizeImage,1684097157694790781,1684097157697080128,2289
