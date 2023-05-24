@@ -1,2 +1,0 @@
-TraceID,SpanID,ParentID,PodName,OperationName,StartTimeUnixNano,EndTimeUnixNano,Duration
-9696dde6433815040d77156cde127389,f95fbfc3445f3f37,root,resize-68d7d4859b-rmb4w,resizeImage,1684120078060653074,1684120078062686243,2033

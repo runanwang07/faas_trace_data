@@ -61,7 +61,7 @@ def handle(req):
             # with tracer.start_as_current_span("less400ByteIo"):
             img_byte_arr = io.BytesIO()
             with tracer.start_as_current_span("less400ImageCovert"):
-                time.sleep(0.001)
+                time.sleep(0.1)
                 image.convert('RGB').save(img_byte_arr, format='JPEG')
                 # with tracer.start_as_current_span("less400ImageEncode"):
                 img_data = base64.encodebytes(
