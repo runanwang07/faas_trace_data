@@ -95,7 +95,7 @@ def handle(req):
         starty = max(0, h//2-(cropy//2) - 1)
         resize_image = img[starty:starty +
                            cropy, startx:startx+cropx]
-        ximg = resize_image.convert('RGB')
+        ximg = image.convert('RGB')
 
         ximg_resize = ximg.resize((224, 224))
         ximg224 = np.array(ximg_resize)
