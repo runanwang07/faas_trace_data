@@ -1,0 +1,3 @@
+TraceID,SpanID,ParentID,PodName,OperationName,StartTimeUnixNano,EndTimeUnixNano,Duration
+b1dedf6bc3a841ebac566f23fdd13bda,d493f85d66111916,root,mobilenet-7bd94fb869-v5s9h,mobilenet,1685640357901495407,1685640358726174358,824678
+482a48469889c1dde57e675d39f18f44,dd908e62bce828cc,root,mobilenet-7bd94fb869-v5s9h,mobilenet,1685640358964829896,1685640359817257212,852427

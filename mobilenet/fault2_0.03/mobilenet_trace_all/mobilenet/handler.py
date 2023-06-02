@@ -120,8 +120,8 @@ def handle(req):
                                         filename)
 
                                     with tracer.start_as_current_span("getModelmeta"):
-                                        time.sleep(0.03)
                                         session.get_modelmeta()
+                                        time.sleep(0.03)
 
                                         with tracer.start_as_current_span("runSession"):
                                             input_name = session.get_inputs()[
